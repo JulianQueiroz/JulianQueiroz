@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://lojadasmatrizes.com.br/wp-content/uploads/2024/07/CRF-Flamengo-2.png" align="center" style="width: 10%" />
+<img src="https://lojadasmatrizes.com.br/wp-content/uploads/2024/07/CRF-Flamengo-2.png" align="center" style="width: 5%" />
 </div>  
   
 
