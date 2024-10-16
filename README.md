@@ -6,16 +6,15 @@
 ### <div align="center"></div>  
   
 
-🌱 My main creation now is [heartlyy](https://heartlyy.vercel.app/) 💗.  
+- I developed [heartlyy](https://heartlyy.vercel.app/) 💗, an website where couples can create personalized cards that celebrate their love story.  
   
 
-❓ I also created [Bandeco](https://t.me/bandejao_ufrj), a telegram bot that sends the daily menu of the UFRJ university restaurant.  
+- I also created [Bandeco](https://t.me/bandejao_ufrj), a telegram bot that sends the daily menu of the UFRJ university restaurant.  
   
 
-🔭 Currently working at Bugarin Tecnologia as a software developer.  
-  
+- Currently working at Bugarin Tecnologia as a software developer.  
 
-⚡ I like to build new things.  
+- I like to build new things.  
   
 
 <br/>  
