@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://seeklogo.com/images/N/novo-monograma-crf-2018-flamengo-logo-8D315B01C3-seeklogo.com.png" align="center" style="width: 10%" />
+<img src="https://lojadasmatrizes.com.br/wp-content/uploads/2024/07/CRF-Flamengo-2.png" align="center" style="width: 10%" />
 </div>  
   
 
