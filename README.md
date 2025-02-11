@@ -4,12 +4,9 @@
   
 
 ### <div align="center"></div>  
-  
+    
 
-- I developed [heartlyy](https://heartlyy.vercel.app/) 💗, an website where couples can create personalized cards that celebrate their love story.  
-  
-
-- I also created [Bandeco](https://t.me/bandejao_ufrj), a telegram bot that sends the daily menu of the UFRJ university restaurant.  
+- I created [Bandeco](https://t.me/bandejao_ufrj), a telegram bot that sends the daily menu of the UFRJ university restaurant.  
   
 
 - Currently working at Bugarin Tecnologia as a software developer.  
