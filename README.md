@@ -66,7 +66,9 @@
 </a>
 <a href="https://www.linkedin.com/in/julianaqueiroz13/" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
-</a>  
+</a> 
+
+  ![](https://komarev.com/ghpvc/?username=julianQueiroz&color=yellowgreen)
 </div>  
   
 <br/>  
