@@ -9,7 +9,7 @@
 - I created [Bandeco](https://t.me/bandejao_ufrj), a telegram bot that sends the daily menu of the UFRJ university restaurant.  
   
 
-- Currently working at Bugarin Tecnologia as a software developer.  
+- Currently working at Monks as a software developer.  
 
 - I like to build new things.  
   
